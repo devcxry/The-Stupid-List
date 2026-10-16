@@ -1,0 +1,18 @@
+{
+    "id": 10565740,
+    "name": "BloodBath",
+    "author": "Riot",
+    "creators": ["Riot"],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "This_guyP",
+            "link": "https://www.tiktok.com/@this_guyp/video/7668794250846391566",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
